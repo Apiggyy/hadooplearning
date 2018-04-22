@@ -1,0 +1,62 @@
+Manifest-Version: 1.0
+Class-Path: lib\activation-1.1.jar lib\annotations-api.jar lib\aopalli
+ ance-1.0.jar lib\apacheds-i18n-2.0.0-M15.jar lib\apacheds-kerberos-co
+ dec-2.0.0-M15.jar lib\api-asn1-api-1.0.0-M20.jar lib\api-i18n-1.0.0-M
+ 20.jar lib\api-util-1.0.0-M20.jar lib\asm-3.2.jar lib\avro-1.7.4.jar 
+ lib\aws-java-sdk-1.7.4.jar lib\azure-storage-2.0.0.jar lib\bootstrap.
+ jar lib\catalina.jar lib\catalina-ant.jar lib\catalina-ha.jar lib\cat
+ alina-tribes.jar lib\commons-beanutils-1.7.0.jar lib\commons-beanutil
+ s-core-1.8.0.jar lib\commons-cli-1.2.jar lib\commons-codec-1.4.jar li
+ b\commons-collections-3.2.2.jar lib\commons-compress-1.4.1.jar lib\co
+ mmons-configuration-1.6.jar lib\commons-daemon.jar lib\commons-daemon
+ -1.0.13.jar lib\commons-digester-1.8.jar lib\commons-httpclient-3.1.j
+ ar lib\commons-io-2.4.jar lib\commons-lang3-3.3.2.jar lib\commons-lan
+ g-2.6.jar lib\commons-logging-1.1.3.jar lib\commons-math3-3.1.1.jar l
+ ib\commons-net-3.1.jar lib\curator-client-2.7.1.jar lib\curator-frame
+ work-2.7.1.jar lib\curator-recipes-2.7.1.jar lib\ecj-4.3.1.jar lib\el
+ -api.jar lib\gson-2.2.4.jar lib\guava-11.0.2.jar lib\guice-3.0.jar li
+ b\guice-servlet-3.0.jar lib\hadoop-annotations-2.7.4.jar lib\hadoop-a
+ nt-2.7.4.jar lib\hadoop-archives-2.7.4.jar lib\hadoop-auth-2.7.4.jar 
+ lib\hadoop-aws-2.7.4.jar lib\hadoop-azure-2.7.4.jar lib\hadoop-common
+ -2.7.4.jar lib\hadoop-datajoin-2.7.4.jar lib\hadoop-distcp-2.7.4.jar 
+ lib\hadoop-extras-2.7.4.jar lib\hadoop-gridmix-2.7.4.jar lib\hadoop-h
+ dfs-2.7.4.jar lib\hadoop-hdfs-nfs-2.7.4.jar lib\hadoop-kms-2.7.4.jar 
+ lib\hadoop-mapreduce-client-app-2.7.4.jar lib\hadoop-mapreduce-client
+ -common-2.7.4.jar lib\hadoop-mapreduce-client-core-2.7.4.jar lib\hado
+ op-mapreduce-client-hs-2.7.4.jar lib\hadoop-mapreduce-client-hs-plugi
+ ns-2.7.4.jar lib\hadoop-mapreduce-client-jobclient-2.7.4.jar lib\hado
+ op-mapreduce-client-shuffle-2.7.4.jar lib\hadoop-mapreduce-examples-2
+ .7.4.jar lib\hadoop-nfs-2.7.4.jar lib\hadoop-openstack-2.7.4.jar lib\
+ hadoop-rumen-2.7.4.jar lib\hadoop-sls-2.7.4.jar lib\hadoop-streaming-
+ 2.7.4.jar lib\hadoop-yarn-api-2.7.4.jar lib\hadoop-yarn-applications-
+ distributedshell-2.7.4.jar lib\hadoop-yarn-applications-unmanaged-am-
+ launcher-2.7.4.jar lib\hadoop-yarn-client-2.7.4.jar lib\hadoop-yarn-c
+ ommon-2.7.4.jar lib\hadoop-yarn-registry-2.7.4.jar lib\hadoop-yarn-se
+ rver-applicationhistoryservice-2.7.4.jar lib\hadoop-yarn-server-commo
+ n-2.7.4.jar lib\hadoop-yarn-server-nodemanager-2.7.4.jar lib\hadoop-y
+ arn-server-resourcemanager-2.7.4.jar lib\hadoop-yarn-server-sharedcac
+ hemanager-2.7.4.jar lib\hadoop-yarn-server-web-proxy-2.7.4.jar lib\ha
+ mcrest-core-1.3.jar lib\hsqldb-2.0.0.jar lib\htrace-core-3.1.0-incuba
+ ting.jar lib\httpclient-4.2.5.jar lib\httpcore-4.2.5.jar lib\jackson-
+ annotations-2.2.3.jar lib\jackson-core-2.2.3.jar lib\jackson-core-asl
+ -1.9.13.jar lib\jackson-databind-2.2.3.jar lib\jackson-jaxrs-1.9.13.j
+ ar lib\jackson-mapper-asl-1.9.13.jar lib\jackson-xc-1.9.13.jar lib\ja
+ sper.jar lib\jasper-el.jar lib\java-xmlbuilder-0.4.jar lib\javax.inje
+ ct-1.jar lib\jaxb-api-2.2.2.jar lib\jaxb-impl-2.2.3-1.jar lib\jersey-
+ client-1.9.jar lib\jersey-core-1.9.jar lib\jersey-guice-1.9.jar lib\j
+ ersey-json-1.9.jar lib\jersey-server-1.9.jar lib\jets3t-0.9.0.jar lib
+ \jettison-1.1.jar lib\jetty-6.1.26.jar lib\jetty-sslengine-6.1.26.jar
+  lib\jetty-util-6.1.26.jar lib\jline-0.9.94.jar lib\joda-time-2.9.9.j
+ ar lib\jsch-0.1.54.jar lib\json-simple-1.1.jar lib\jsp-api.jar lib\js
+ p-api-2.1.jar lib\jsr305-3.0.0.jar lib\jul-to-slf4j-1.7.10.jar lib\ju
+ nit-4.11.jar lib\leveldbjni-all-1.8.jar lib\log4j-1.2.17.jar lib\metr
+ ics-core-3.0.1.jar lib\mockito-all-1.8.5.jar lib\netty-3.6.2.Final.ja
+ r lib\netty-all-4.0.23.Final.jar lib\paranamer-2.3.jar lib\protobuf-j
+ ava-2.5.0.jar lib\servlet-api.jar lib\servlet-api-2.5.jar lib\slf4j-a
+ pi-1.7.10.jar lib\slf4j-log4j12-1.7.10.jar lib\snappy-java-1.0.4.1.ja
+ r lib\stax-api-1.0-2.jar lib\tomcat-coyote.jar lib\tomcat-dbcp.jar li
+ b\tomcat-juli.jar lib\xercesImpl-2.9.1.jar lib\xml-apis-1.3.04.jar li
+ b\xmlenc-0.52.jar lib\xz-1.0.jar lib\zookeeper-3.4.6.jar lib\hamcrest
+ -core-1.3.jar lib\junit-4.12.jar
+Main-Class: com.self.learning.mr.flowsumarea.FlowSumArea
+
